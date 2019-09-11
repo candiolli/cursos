@@ -1,0 +1,13 @@
+A linha de comando do Linux
+(conhecida simplesmente por
+shell, Bash ou terminal) oferece
+centenas de pequenos utilitários para
+ler, escrever e analisar dados. Com alguma digitação extra é possível combinar esses utilitários em numerosos
+aplicativos improvisados e de maior
+complexidade, para fins diversos. Por
+exemplo, imagine que é preciso extrair
+centenas pequenos utilitários para
+as falas de um ator. Com o texto exibido na listagem 1, é preciso produzir
+That’s what they call a sanity clause do
+Groucho
+centenas dess pequenos utilitários para
