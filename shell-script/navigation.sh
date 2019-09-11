@@ -7,5 +7,3 @@
 # -  = Representa o diretório anterior.
 
 #Exemplo
-
-echo "$(pwd)"
