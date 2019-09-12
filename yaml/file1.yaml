@@ -1,0 +1,32 @@
+# Texto com quebra de linha
+include_newlines: |
+            exactly as you see
+            will appear these three
+            lines of poetry
+
+# Texto sem quebra de linha
+fold_newlines: >
+            this is really a
+            single line of text
+            despite appearances
+
+lista: 
+  - Apple
+  - Orange
+  - Strawberry
+  - Mango
+  - martin:
+      name: Martin D'vloper
+      job: Developer
+      skills:
+        - python
+        - perl
+        - pascal
+  - tabitha:
+      name: Tabitha Bitumen
+      job: Developer
+      skills:
+        - lisp
+        - fortran
+        - erlang
+
